@@ -1,0 +1,24 @@
+<div class="pageStyles" style="margin: 3px;">
+<table style="width: 100%; border-collapse: separate" summary="Bid Items">
+<thead>
+<tr>
+<th colspan="3" style="width: 90%">
+<span>All Bids</span>
+</th>
+<th style="width: 10%; text-align: right">
+<span>1 Bid</span>
+</th>
+</tr> </thead>
+<tr>
+<td style="width: 2%"></td>
+<td style="width: 70%; text-align: left; vertical-align: top">
+<span><a href="bids.aspx?bidID=30">Shepard Park Boat Trailer Parking</a></span><br/>
+<span style="font-size:0.75em;"><strong>Bid No.</strong> ITB #2021-104</span><br/> <span>DemandStar</span>
+</td>
+<td style="width: 8%; vertical-align:top; text-align: left"> <span id="BidStatus3017">Status:</span><br/> <span id="BidCloses3017">Closes:</span>
+</td> <td style="width: 20%; text-align: left; vertical-align: top"> <span>Open</span><br/> <span>2/10/2021 2:30 PM</span>
+</td>
+</tr> </table>
+</div><div class="widgetBody pageStyles" id="widgetBody04b8de5b-9da7-47ab-8422-fe3c3c0048f5">
+<div id="customHtml04b8de5b-9da7-47ab-8422-fe3c3c0048f5"><div><div class="cp-byline"><img src="/ImageRepository/Document?documentID=73" style="vertical-align: top;"/> <span style="padding: .25em 0; display: inline-block; font-family: Rubik; font-weight: 500;">Government Websites by <a href="https://www.civicplus.com/referral" style="color: #323334; text-decoration: none;">CivicPlus®</a></span></div></div></div>
+</div>

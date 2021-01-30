@@ -1,0 +1,98 @@
+<div class="widget editor pageStyles narrow" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' id="divEditorb61e3acb-8b22-482d-9d60-e5b62aa9daa4">
+<br/>
+<table cellpadding="2" cellspacing="1" class="telerik-reTable-2" style="width: 100%;">
+<tbody>
+<tr class="telerik-reTableHeaderRow-2">
+<th class="telerik-reTableHeaderEvenCol-2"> Current Bids, RFP's and Quotes</th>
+<th class="telerik-reTableHeaderOddCol-2">Bid/Quote Documents </th>
+<th class="telerik-reTableHeaderEvenCol-2">Submittal Deadline </th>
+<th class="telerik-reTableHeaderOddCol-2"> Status</th>
+</tr>
+<tr class="telerik-reTableOddRow-2">
+<td class="telerik-reTableEvenCol-2"> Finance</td>
+<td class="telerik-reTableOddCol-2"><a class="Hyperlink" href="http://www.tequesta.org/1460/Capital-Improvement-Revenue-Note" target="_self" title="Capital Improvement Revenue Note">Capital Improvement Revenue Note, Series  2021</a></td>
+<td class="telerik-reTableEvenCol-2">December 16, 2020 at 2:00 p.m.</td>
+<td class="telerik-reTableOddCol-2">Open</td>
+</tr>
+<tr class="telerik-reTableEvenRow-2 alt">
+<td class="telerik-reTableEvenCol-2">Parks and Rec</td>
+<td class="telerik-reTableOddCol-2"><a class="Hyperlink" href="http://www.tequesta.org/1440/Construction-Manager-at-Risk-Services" target="_self" title="Construction Manager at Risk Services">Construction Manager at Risk Services</a></td>
+<td class="telerik-reTableEvenCol-2">September 21, 2020 at 2:00 p.m.</td>
+<td class="telerik-reTableOddCol-2"> Awarded to Hedrick Brothers</td>
+</tr>
+<tr class="telerik-reTableOddRow-2">
+<td class="telerik-reTableEvenCol-2">Finance</td>
+<td class="telerik-reTableOddCol-2"><a class="Hyperlink" href="http://www.tequesta.org/1436/Financial-Advisory-Services" target="_self" title="Financial Advisory Services">Financial Advisory Services</a></td>
+<td class="telerik-reTableEvenCol-2">August 28, 2020 at 2:00 p.m.</td>
+<td class="telerik-reTableOddCol-2">Awarded to Hilltop Securities</td>
+</tr>
+<tr class="telerik-reTableEvenRow-2 alt">
+<td class="telerik-reTableEvenCol-2">Utilities Department</td>
+<td class="telerik-reTableOddCol-2"><a class="Hyperlink" href="http://www.tequesta.org/1429/Drainage-Improvements" style="outline: 0px;" target="_self">Drainage Improvements - Pinetree Drive and Tequesta Bridge</a></td>
+<td class="telerik-reTableEvenCol-2">July 30, 2020 at 2:00 p.m.</td>
+<td class="telerik-reTableOddCol-2"> Closed</td>
+</tr>
+<tr class="telerik-reTableOddRow-2">
+<td class="telerik-reTableEvenCol-2">Utilities Department</td>
+<td class="telerik-reTableOddCol-2"><a class="Hyperlink" href="/DocumentCenter/View/10672/RFQ-UTIL-07-20---TRAILER-MOUNTED-VALVE-AND-HYDRANT-EXERCISER" target="_self">Purchase of Trailer Mounted Valve and Hydrant Exerciser</a><br/>
+<br/>
+<a class="Hyperlink" href="/DocumentCenter/View/10678/Addendum-No-1_RFQ-Util-07-20_ada" target="_self" title="Addendum No. 1">Addendum No. 1</a></td>
+<td class="telerik-reTableEvenCol-2">June 26, 2020 at 5:00 p.m.</td>
+<td class="telerik-reTableOddCol-2"> Closed</td>
+</tr>
+<tr class="telerik-reTableEvenRow-2 alt">
+<td class="telerik-reTableEvenCol-2">Utilities Department</td>
+<td class="telerik-reTableOddCol-2"><a class="Hyperlink" href="http://www.tequesta.org/1421/General-Consulting-Services" target="_self">General Consulting Services</a></td>
+<td class="telerik-reTableEvenCol-2">May 26, 2020 - 5:00 p.m.</td>
+<td class="telerik-reTableOddCol-2">Closed</td>
+</tr>
+<tr class="telerik-reTableOddRow-2">
+<td class="telerik-reTableEvenCol-2">Utilities Department</td>
+<td class="telerik-reTableOddCol-2">4/23/20 - 5:00 p.m.</td>
+<td class="telerik-reTableEvenCol-2">Open 4/9/20</td>
+<td class="telerik-reTableOddCol-2"> </td>
+</tr>
+<tr class="telerik-reTableEvenRow-2 alt">
+<td class="telerik-reTableEvenCol-2">Village Clerk's Office</td>
+<td class="telerik-reTableOddCol-2"><span style="outline-color: initial; outline-style: initial;">Website Redesign, Development and Implementation</span></td>
+<td class="telerik-reTableEvenCol-2">Canceled</td>
+<td class="telerik-reTableOddCol-2">Canceled</td>
+</tr>
+<tr class="telerik-reTableOddRow-2">
+<td class="telerik-reTableEvenCol-2">Public Works Department</td>
+<td class="telerik-reTableOddCol-2">Maintenance of Tequesta Parks Baseball Fields</td>
+<td class="telerik-reTableEvenCol-2">January 15, 2020 - 3:00 p.m.</td>
+<td class="telerik-reTableOddCol-2">Awarded to Sheehan Turf</td>
+</tr>
+<tr class="telerik-reTableEvenRow-2 alt">
+<td class="telerik-reTableEvenCol-2">Utilities Department</td>
+<td class="telerik-reTableOddCol-2">Stormwater Retaining Wall and Drainage Improvements</td>
+<td class="telerik-reTableEvenCol-2"> December 4, 2019 - 2:30 p.m.           </td>
+<td class="telerik-reTableOddCol-2">All bids rejected       </td>
+</tr>
+<tr class="telerik-reTableOddRow-2">
+<td class="telerik-reTableEvenCol-2">Public Works Department</td>
+<td class="telerik-reTableOddCol-2">Maintenance of Tequesta Parks Baseball Fields</td>
+<td class="telerik-reTableEvenCol-2"> December 3, 2019 - 2:00 p.m.</td>
+<td class="telerik-reTableOddCol-2"><span style="background-color: rgb(234, 234, 234);">All bids rejected</span><br/>
+</td>
+</tr>
+<tr class="telerik-reTableEvenRow-2 alt">
+<td class="telerik-reTableEvenCol-2">Water Treatment Plant</td>
+<td class="telerik-reTableOddCol-2"><span style="font-family: Arial, sans-serif;">50% Sodium Hydroxide Annual Purchase</span><br/>
+</td>
+<td class="telerik-reTableEvenCol-2"> December 5, 2019 - 5:00 p.m.</td>
+<td class="telerik-reTableOddCol-2"> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+<div id="radePasteHelper" style="position: absolute; left: -10000px; border: 0px solid red; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<table cellpadding="2" cellspacing="1" class="telerik-reTable-2" style="width: 788px;">
+<tbody>
+<tr class="telerik-reTableOddRow-2">
+<td class="telerik-reTableOddCol-2">July 30, 2020 at 2:00 p.m.</td>
+</tr>
+</tbody>
+</table>
+</div></div>
